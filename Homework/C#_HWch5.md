@@ -9,7 +9,7 @@ A compound assignment operator is a combination of any arithmetic operator and t
 
 2. List all the compound assignment operators.
 
- - variable *= number;
+ - variable \*= number;
  - variable /= number;
  - variable %= number;
  - variable += number;
